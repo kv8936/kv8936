@@ -11,7 +11,7 @@
 
 🔹 Exploring cloud-based data processing and analysis platforms
 
-🔹 Enhancing my skills in data visualization and storytelling
+🔹 Enhancing my skills in data visualization and storytelling (You can check my tableau public profile.)
 
 I'm dedicated to staying updated with the latest advancements in the field and continuously improving my data analytics expertise. Stay tuned for exciting projects that reflect my ongoing learning journey!
 

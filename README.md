@@ -1,23 +1,26 @@
-- 👋 Hi, I’m @kv8936 Kumar Viswajeet
+👋 Hi, I’m Kumar Viswajeet  
 
-- 👀 I’m interested in data analytics and using insights to drive informed decision making. I'm excited to showcase my skills and contribute to the data community.Explore my repositories for projects on data analysis, SQL, machine learning, and data visualization. 
-- I've completed certifications and contributed to collaborative projects. Let's connect and make an impact with data! 
+📊 Data Analyst | Building data-driven and AI-powered systems  
 
-- 🌱 I’m currently learning actively refreshing and expanding my skills in data analytics. Currently, I'm focusing on:
- 
- 🔹 Advanced statistical analysis techniques
+I focus on solving real-world problems using data — from analysis and visualization to developing intelligent AI applications.
 
-🔹 Deepening my understanding of machine learning algorithms
+🚀 Core Skills:
+- Python (Pandas, NumPy, Matplotlib)
+- SQL & Data Analysis
+- Machine Learning (applied)
+- Tableau & Data Visualization  
 
-🔹 Exploring cloud-based data processing and analysis platforms
+🎓 Currently studying AI Engineering (LLMs & Chatbots)  
+- Working with Transformers, LLMs, and NLP systems  
+- Building chatbot applications using RAG (Retrieval-Augmented Generation)  
+- Using FAISS for vector search and similarity retrieval  
+- Integrating Whisper for speech-to-text pipelines  
+- Exploring multimodal AI (text + image + audio)  
+- Designing end-to-end AI systems with real-world datasets  
 
-🔹 Enhancing my skills in data visualization and storytelling (You can check my tableau public profile.)
+📂 Projects:
+- Multimodal Retail Chatbot (CLIP + FAISS + DistilBERT + Whisper)  
+- Machine Learning Sales Forecasting Model  
+- Data Analysis & Visualization Dashboards  
 
-I'm dedicated to staying updated with the latest advancements in the field and continuously improving my data analytics expertise. Stay tuned for exciting projects that reflect my ongoing learning journey!
-
-
-
-<!---
-kv8936/kv8936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Portfolio: https://kv8936.github.io/
